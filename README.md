@@ -41,7 +41,7 @@ The project demonstrates how NumPy can be used to calculate statistics, filter d
 
 ## How to Run
 
-Clone the repository:
+Clone the repository
 
 ```bash
 git clone https://github.com/YOUR-USERNAME/numpy-student-analysis.git
